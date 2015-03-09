@@ -1,0 +1,13 @@
+application: academic-oath-87418
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+<<<<<<< HEAD
+  script: helloworld.application
+=======
+  script: helloworld.application
+>>>>>>> 10da22529d9925284e12347772e61308ea5e669f
